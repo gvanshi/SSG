@@ -21,6 +21,6 @@ A project showcasing the use of **Static Site Generation (SSG)** in Next.js for 
    
 2.Start the development server:
 ```bash
-   npm run dev
+   npm run dev.
 
 3. Visit the app at http://localhost:3000.
